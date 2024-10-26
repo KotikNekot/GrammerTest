@@ -12,7 +12,7 @@ dp = Dispatcher()
 
 async def main() -> None:
     bot = Bot(
-        token="7721275788:AAEls8IjX-tT1BLOQ9PJ1-nLg9AZUcn03iQ",
+        token="<token>",
         default=DefaultBotProperties(parse_mode=ParseMode.HTML)
     )
 
